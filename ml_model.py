@@ -13,4 +13,8 @@ def model3():
 
 
 print("model2 is performing best")
+<<<<<<< HEAD
 print("#Adding this line to test git revert")
+=======
+#comitting here
+>>>>>>> parent of 4ac5bcf (Method 2 performs best)
